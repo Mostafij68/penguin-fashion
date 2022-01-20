@@ -1,0 +1,50 @@
+.df-nav{
+    color: #3c3c3c !important;
+    font-size: 18px !important;
+    font-weight: 600;
+    margin: 0 15px;
+    transition: .3s;
+}
+.df-nav:hover{
+    color: #A4BC47 !important;
+}
+.df-nav-bg{
+    background: #FFFBF0;
+}
+.df-blue{
+    color: #363958;
+}
+.df-green{
+    color: #A4BC47;
+}
+.df-gold{
+    color: #FABE4C;
+}
+h1{
+    font-size: 70px;
+    font-weight: 600;
+}
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+h4{
+    font-size: 1.4em;
+    font-weight: 600;
+}
+.df-text {
+    font-size: 20px;
+    color: gray;
+  }
+.df-btn{
+    background-image: linear-gradient(#A4BC46, #86A11A);
+    color: #fff;
+    padding: 10px 30px !important;
+}
+.card-img{
+    background: #F1F1F1;
+}
+.card{
+    border: none !important;
+    box-shadow: 5px 5px 20px #ddd ;
+}
